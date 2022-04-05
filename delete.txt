@@ -1,0 +1,4 @@
+ <a href="{{ route('eo.destroy', $eo) }}"
+                                            onclick="notificationBeforeDelete(event, this)" class="btn btn-danger btn-xs">
+                                            Delete
+                                        </a>
